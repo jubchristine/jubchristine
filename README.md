@@ -1,4 +1,4 @@
-- 👋 Hej, I’m Christine
+- 👋 Hej, Christine hier! 
 - 📫 christine@jungundbillig.de
 
 <!---
